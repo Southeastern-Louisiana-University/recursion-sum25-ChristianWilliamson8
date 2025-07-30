@@ -1,5 +1,8 @@
 package chapter7;
 
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class SelectionSort {
   /** The method for sorting the numbers */
   public static void selectionSort(double[] list) {

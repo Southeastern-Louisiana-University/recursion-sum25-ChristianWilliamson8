@@ -1,5 +1,8 @@
 package chapter7;
 
+import java.util.Scanner;
+
+
 public class BinarySearch {
   /** Use binary search to find the key in the list */
   public static int binarySearch(int[] list, int key) {
